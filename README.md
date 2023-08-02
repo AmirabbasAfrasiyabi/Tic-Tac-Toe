@@ -13,7 +13,8 @@
 <h3 align="center">2. Human Vs Machine 👉  Human Get the first chance to play</h3>
 
 ---
-<h3 align = "center"> I have also provided you with Java version in the Java folder.</h3>ا
+<h3 align = "center"> I have also provided you with Java version in the Java folder.</h3>
+
 <h3 align="center"><b>This new Update  of this project will be done on three levels (easy - Medium - hard) and on a land the size of N*N will be available to you soon.</b></h3>
 
 ---
