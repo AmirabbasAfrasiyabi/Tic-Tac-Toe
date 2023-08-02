@@ -6,9 +6,9 @@
 
 ###  <p align="center">	 This is an AI Tic-Tac-Toe Game made by Python(Version 3) Tkinter </p>
 
-<!-- <p align="center"><video controls width="300px">
+ <p align="center"><video controls width="300px">
             <source src="game_video.mp4" type="video/mp4">
-        </video></p> -->
+        </video></p> 
 
 ---
 
