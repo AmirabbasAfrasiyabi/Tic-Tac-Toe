@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Tool_Used-Tkinter-gold.svg)
 ![](https://img.shields.io/badge/Game-Tic_Tac_Toe-yellow.svg)
 ![](https://img.shields.io/badge/Mode-AI-orange.svg)
-![](https://img.shields.io/badge/Python_Version-3.11 | 3.10-brown.svg)
+
 
 ###  <p align="center">	 This is an AI Tic-Tac-Toe Game made by Python(Version 3) Tkinter </p>
 
